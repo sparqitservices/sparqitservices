@@ -4,7 +4,7 @@ We're a dynamic web development and digital marketing agency based in Lucknow, I
 
 ### 💫 Who We Are
 
-Led by Afzal Hameed, a Manipal University Jaipur alumnus, our team combines technical expertise with creative excellence to deliver cutting-edge digital experiences.
+Led by Afzal Hameed, a software engineer, our team combines technical expertise with creative excellence to deliver cutting-edge digital experiences.
 
 ### 🛠️ Our Core Services
 - Custom Web Development
@@ -33,8 +33,8 @@ Lucknow, Uttar Pradesh, India
 
 ### 🤝 Let's Connect
 - Website: [www.sparqitservices.com]
-- Email: afzal@sparqitservices.com
-- LinkedIn: [Sparq IT Services]
+- Email: info@sparqitservices.com
+- LinkedIn: **[[Sparq IT Services]](https://www.linkedin.com/company/sparq-it-services/**
 - Instagram: [@sparqitservices]
 
 *Transforming ideas into digital reality since 2020*
