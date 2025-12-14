@@ -36,5 +36,3 @@ Lucknow, Uttar Pradesh, India
 - Email: info@sparqitservices.com
 - LinkedIn: **[[Sparq IT Services]](https://www.linkedin.com/company/sparq-it-services/**
 - Instagram: [@sparqitservices]
-
-*Transforming ideas into digital reality since 2020*
